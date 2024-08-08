@@ -1,0 +1,122 @@
+[
+    {
+        "question": "While designing the main pathway of the town square, Emma and Jack encountered an intersection forming an angle marked as x. Find the value of x.",
+        "options": ["39°", "41°", "51°", "139°"],
+        "correct": 1,
+      "img": "./assests/images/1.jpg"
+    },
+    {
+        "question": "In the blueprint for the seating area, Emma noticed that an angle marked as x was missing. Help her find the angle measurement of x.",
+        "options": ["26°", "68°", "12°", "78°"],
+        "correct": 3,
+      "img": "./assests/images/2.jpg"
+    },
+    {
+        "question": "Jack was arranging the flower beds in the design, which created an angle x. Determine the value of x.",
+        "options": ["43°", "137°", "133°", "143°"],
+        "correct": 2,
+      "img": "./assests/images/3.jpg"
+    },
+    {
+        "question": "As they aligned the benches in the town square, Emma and Jack found an angle x that needed to be calculated. Determine the value of x.",
+        "options": ["75°", "60°", "15°", "65°"],
+        "correct": 0,
+      "img": "./assests/images/4.jpg"
+    },
+    {
+        "question": "Emma was drawing the pathway corners and found an angle marked y. What is the value of y?",
+        "options": ["130°", "138°", "26°", "46°"],
+        "correct": 2,
+      "img": "./assests/images/5.jpg"
+    },
+    {
+        "question": "In the seating area blueprint, Jack found an angle x between two intersecting lines. Find the value of x.",
+        "options": ["50°", "108°", "58°", "158°"],
+        "correct": 0,
+      "img": "./assests/images/6.jpg"
+    },
+    {
+        "question": "While planning the layout of the food stalls, Emma encountered an angle x. What is the value of x?",
+        "options": ["116°", "102°", "64°", "26°"],
+        "correct": 3,
+      "img": "./assests/images/7.jpg"
+    },
+    {
+        "question": "Jack was designing a decorative fountain area and needed to find the value of an angle g. What is the value of g?",
+        "options": ["114°", "126°", "54°", "60°"],
+        "correct": 2,
+      "img": "./assests/images/8.jpg"
+    },
+    {
+        "question": "In their design, two parallel pathways were intersected by a diagonal path forming angle a. Find the value of a.",
+        "options": ["128°", "132°", "52°", "82°"],
+        "correct": 0,
+      "img": "./assests/images/9.jpg"
+    },
+    {
+        "question": "Jack drew two parallel lines for the main paths, intersected by a transversal. Find the value of x in the adjoining figure.",
+        "options": ["35°", "45°", "95°", "75°"],
+        "correct": 1,
+      "img": "./assests/images/10.jpg"
+    },
+    {
+        "question": "In their design, two parallel benches were cut by a transversal path. What is the value of x in the given figure?",
+        "options": ["8°", "7°", "6°", "9°"],
+        "correct": 1,
+      "img": "./assests/images/11.jpg"
+    },
+    {
+        "question": "In the blueprint, two parallel pathways were intersected by a diagonal. What is the value of x?",
+        "options": ["98°", "48°", "46°", "96°"],
+        "correct": 1,
+      "img": "./assests/images/12.jpg"
+    },
+    {
+        "question": "Emma and Jack’s design involved a transversal cutting through two parallel lines. Find the value of x.",
+        "options": ["60°", "50°", "55°", "40°"],
+        "correct": 3,
+      "img": "./assests/images/13.jpg"
+    },
+    {
+        "question": "In the seating arrangement, Jack found an angle x that needed solving. Find the value of x from the given figure.",
+        "options": ["20°", "15°", "10°", "12°"],
+        "correct": 2,
+      "img": "./assests/images/14.jpg"
+    },
+    {
+        "question": "While designing the central plaza, Emma noticed a missing angle x. Determine the value of x from the given figure.",
+        "options": ["10°", "15°", "20°", "17°"],
+        "correct": 0,
+      "img": "./assests/images/15.jpg"
+    },
+    {
+        "question": "In their blueprint, Emma and Jack needed to find the value of x for a figure involving intersecting lines. What is the value of x in the figure given below?",
+        "options": ["32°", "22°", "12°", "42°"],
+        "correct": 1,
+      "img": "./assests/images/16.jpg"
+    },
+    {
+        "question": "Two parallel lines representing paths were cut by a transversal in the design. What is the value of x?",
+        "options": ["20°", "30°", "25°", "15°"],
+        "correct": 2,
+      "img": "./assests/images/17.jpg"
+    },
+    {
+        "question": "Jack found an intersection creating angle x in the blueprint. Find the value of x from the given figure.",
+        "options": ["35°", "25°", "30°", "20°"],
+        "correct": 0,
+      "img": "./assests/images/18.jpg"
+    },
+    {
+        "question": "In the design of the main square, Emma and Jack needed to find the values of angles A and B. What are the values of A and B in the given figure?",
+        "options": ["A = 35° , B = 125°", "A = 55° , B = 145°", "A = 145° , B = 55°", "None of the above"],
+        "correct": 2,
+      "img": "./assests/images/19.jpg"
+    },
+    {
+        "question": "In the blueprint, if paths DF and GI are parallel lines cut by transversal CJ and ∠DEC = 65°, what is the value of ∠GHE?",
+        "options": ["55°", "65°", "75°", "45°"],
+        "correct": 1,
+      "img": "./assests/images/20.jpg"
+    }
+]
